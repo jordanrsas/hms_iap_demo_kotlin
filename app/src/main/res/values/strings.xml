@@ -1,0 +1,25 @@
+<resources>
+    <string name="consumable_products">Consumables</string>
+    <string name="non_consumable_products">Non-consumables</string>
+    <string name="auto_renewable_subscription">Auto-renewable subscriptions</string>
+
+    <string name="purchase_gems">Purchase gems</string>
+    <string name="gems_count_tips">Number of gems: &#160;</string>
+    <string name="purchase_history_title">History</string>
+
+    <string name="success_state">Transaction complete</string>
+    <string name="cancel_state">Transaction cancel</string>
+    <string name="refund_state">Transaction refunded</string>
+
+    <string name="manage_subscription">Manage Subscription</string>
+    <string name="subscription">Subscriptions</string>
+
+    <string name="external_error">external error</string>
+    <string name="cancel">User Cancelled</string>
+    <string name="fail">fail</string>
+
+    <string name="pay_fail">Pay failed</string>
+    <string name="pay_success">Pay successful</string>
+    <string name="pay_success_signfail">Pay successful,sign failed</string>
+    <string name="verify_signature_fail">verify signature fail</string>
+</resources>
